@@ -1,0 +1,9 @@
+.nav {
+    position: fixed;
+    height: 4px;
+    width: 5px;
+}
+
+.nav-item {
+    font-size: 14px;
+}
